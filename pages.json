@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Home",
+        "id": "home",
+        "html": "<h1>Home</h1><p>sono la home</p>"
+    },
+    {
+        "name": "Chi siamo",
+        "id": "about",
+        "html": "<h1>about</h1><p>ciao</p>"
+    },
+    {
+        "name": "Contatti",
+        "id": "contacts",
+        "html": "<h1>contacts</h1><p>@pippo</p>"
+    },
+    {
+        "name": "foto",
+        "id": "gallery",
+        "html": "<h1>gallery</h1><p>nessuna foto :( </p>"
+    }
+]
